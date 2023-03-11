@@ -1,0 +1,14 @@
+{
+  "name": "bufficorn-race",
+  "version": "1.0.0",
+  "description": "bufficorn race game",
+  "main": "gfg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doris Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "oreid-js": "^4.5.0"
+  }
+}
